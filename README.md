@@ -4,7 +4,7 @@ A WooCommerce shipping method, **Pickup in store**: at checkout the customer cho
 
 ![Checkout with the Pickup in store method and the list of stores to choose from](images/store-pickup-checkout.png)
 
-**Compatibility:** WordPress 6.0+ (tested on 7.1) · WooCommerce 8.0+ (tested on 10.9.4) · PHP 8.1 – 8.4 · Block-based and classic checkout · HPOS
+**Compatibility:** WordPress 6.0+ (tested on 7.1) · WooCommerce 8.0+ (tested on 10.9.4) · PHP 8.1 – 8.5 · Block-based and classic checkout · HPOS
 **License:** commercial · coming soon
 
 ## Features
@@ -24,7 +24,7 @@ A WooCommerce shipping method, **Pickup in store**: at checkout the customer cho
 ## Requirements
 
 - WordPress 6.0 or newer
-- PHP 8.1 – 8.4
+- PHP 8.1 – 8.5
 - WooCommerce 8.0 or newer
 - [Threecommerce Store Locator](https://github.com/Threecommerce/woocommerce-store-locator) 1.x. Without it the plugin activates but stays inactive (no shipping method, no choice at checkout) and shows an admin notice
 - Map: OpenStreetMap needs nothing; Google Maps needs the key set in the store locator (without a key the list is shown)
